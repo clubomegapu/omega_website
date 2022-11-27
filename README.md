@@ -1,6 +1,6 @@
 # omega_website
 
-<img src="https://github.com/clubomegapu/omega_website/blob/main/land_page.png">
+![land_page.png]
 
--
+<br>
 ### Web Page is Live : [Click Here](https://clubomegapu.github.io/omega_website/)
