@@ -1,4 +1,4 @@
-# omega_website
+# Omega Official Club Website
 
 ![Landing Page ScreenShot](land_page.png)
 
